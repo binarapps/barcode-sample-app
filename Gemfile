@@ -39,3 +39,4 @@ gem 'spring',        group: :development
 
 gem 'pg'
 gem 'thin'
+gem 'haml'
