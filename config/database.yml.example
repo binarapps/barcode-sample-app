@@ -1,0 +1,23 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: barcode-development
+  pool: 5
+  username: 
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: barcode-test
+  pool: 5
+  username:
+  password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: barcode-production
+  pool: 5
+  username: 
+  password:
